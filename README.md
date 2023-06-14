@@ -4,7 +4,7 @@
 <h3>I can work with these technologies:</h3>
 <h3>&darr; Languages and Tools: &darr;</h3>
 <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,angular,express,mongodb,git,nodejs,mocha,chai" /></a>
+   <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,angular,express,mongodb, mysql,git,nodejs,mocha,chai" /></a>
    <!--Mocha--><a href="https://mochajs.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40" /></a>
 <!--Postman--><a href="https://postman.com" target="_blank" rel="noreferrer"><img
