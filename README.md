@@ -3,7 +3,7 @@
 <h3>        &darr; Languages and Tools &darr;</h3>
 <hr />
 <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=js,ts,angular,react,express,mongodb,css,html,git,nodejs,solidity" />
+   <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,angular,express,mongodb,git,nodejs,mocha,chai" />
 </a>
 
 <h3>📫 Connect with me:</h3>
