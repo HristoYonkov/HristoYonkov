@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Hristo Yonkov.</h1>
 <h2 align="center">I am looking for great team with wide knowledge to share with me!</h2>
 
-<h3>I can work with these technologies:</h3>
+<h3>I have expirience with these technologies:</h3>
 <h3>&darr; Languages and Tools: &darr;</h3>
 <!--JavaScript--><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
