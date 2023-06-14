@@ -34,6 +34,7 @@
       src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="mysql" width="40" height="40" /></a>
 
 <h3>📫 Connect with me:</h3>
+<hr/>
 <div id="badges">
   <a target="_blank" href="https://www.linkedin.com/in/hristo-yonkov-444156260/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
