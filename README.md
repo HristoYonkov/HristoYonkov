@@ -1,5 +1,5 @@
 <h1>Hi there 👋 I'm Hristo Yonkov.</h1>
-### I am looking for great team with wide knowledge to share with me!
+## I am looking for great team with wide knowledge to share with me!
 <h3>        &darr; Languages and Tools &darr;</h3>
 <hr />
 <p align="left"><!--JavaScript--><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
@@ -8,7 +8,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5" width="40" height="40" /></a><!--CSS--><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" />
+      width="40" height="40" /> </a><!--Git--><a href="https://git-scm.com/" target="_blank" rel="noreferrer"></a>
 
 <h3>📫 Connect with me:</h3>
 <div id="badges">
