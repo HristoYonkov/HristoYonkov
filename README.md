@@ -23,6 +23,8 @@
       alt="mongodb" width="40" height="40" /></a>
    <!--Mocha--><a href="https://mochajs.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40" /></a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
+      src="https://user-images.githubusercontent.com/25181517/201476472-d2f5f644-cfc9-43e5-96d3-c8f40f18b5cb.png" alt="chai" width="40" height="40" /></a>
 <!--Postman--><a href="https://postman.com" target="_blank" rel="noreferrer"><img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a>
  <!--Sass--><a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img
