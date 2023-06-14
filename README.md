@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! 👋 I'm Hristo Yonkov.</h1>
+<h1 align="center">Hello! 👋 I'm Hristo Yonkov.</h1>
 <h2 align="center">I am looking for a great team with a wide knowledge base to share with me!</h2>
 
 <h3>I have experience with these technologies:</h3>
