@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, 👋 I'm Hristo Yonkov.</h1>
-<h2 align="center">I am looking for great team with wide knowledge to share with me!</h2>
+<h2 align="center">I am looking for great team, with wide knowledge to share with me!</h2>
 
 <h3>I have experience with these technologies:</h3>
 <h3>&darr; Languages and Tools: &darr;</h3>
