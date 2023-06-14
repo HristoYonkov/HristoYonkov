@@ -1,6 +1,6 @@
 <h1>Hi there 👋 I'm Hristo Yonkov.</h1>
 <h3>I am looking for great team with wide knowledge to share with me!</h3>
-<h3 align="left">&darr;Languages and Tools&darr;</h3>
+<h3 align="center">&darr; Languages and Tools &darr;</h3>
 <hr />
 <p align="left"><!--JavaScript--><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
