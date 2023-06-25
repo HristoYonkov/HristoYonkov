@@ -35,7 +35,7 @@
       <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
       src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="mysql" width="40" height="40" /></a>
       <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git" />
   </a>
 <hr/>
 
