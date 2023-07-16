@@ -39,6 +39,7 @@
             <img src="https://skillicons.dev/icons?i=redux" />
             <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="redux" width="40" height="40" />
   </a>
+  <img src="https://skillicons.dev/icons?i=redux" />
 <hr/>
 
 <h3>📫 Connect with me:</h3>
