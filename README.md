@@ -38,6 +38,7 @@
     <img src="https://skillicons.dev/icons?i=git" />
       <img src="https://skillicons.dev/icons?i=tailwind" />
       <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="redux" width="40" height="40" />
+      <img src="[https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png](https://cdn.svgporn.com/logos/swagger.svg)" alt="redux" width="40" height="40" />
   </a>
 <hr/>
 
