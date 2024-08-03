@@ -36,6 +36,7 @@
       src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="mysql" width="40" height="40" /></a>
       <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git" />
+      <img src="https://skillicons.dev/icons?i=tailwind" />
       <img src="https://skillicons.dev/icons?i=materialui" />
       <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="redux" width="40" height="40" />
       <img src="https://cdn.svgporn.com/logos/swagger.svg" alt="swagger" width="40" height="40" />
