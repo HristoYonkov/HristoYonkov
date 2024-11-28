@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, World! 🌍</h1>
 <h2 align="center">Welcome to my GitHub profile! I'm Hristo Yonkov, a passionate full-stack JavaScript developer on a mission to turn ideas into impactful digital solutions. 🚀</h2>
-<h3>I have experience with these technologies:</h3>
+<!-- <h3>I have experience with these technologies:</h3> -->
 <h3>&darr; Languages and Tools: &darr;</h3>
 <!--JavaScript--><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
