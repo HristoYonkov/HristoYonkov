@@ -1,5 +1,5 @@
-<h1 align="center">Hello! 👋 I'm Hristo Yonkov.</h1>
-<h2 align="center">I am looking for a great team, with a wide knowledge base to share with me!</h2>
+<h1 align="center">Hello, World! 👋 I'm Hristo Yonkov.</h1>
+<h2 align="center">Welcome to my GitHub profile! I'm passionate full-stack JavaScript developer on a mission to turn ideas into impactful digital solutions. 🚀</h2>
 
 <h3>I have experience with these technologies:</h3>
 <h3>&darr; Languages and Tools: &darr;</h3>
