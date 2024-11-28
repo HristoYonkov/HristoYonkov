@@ -1,5 +1,10 @@
-<h1 align="center">Hello, World! 👋 I'm Hristo Yonkov.</h1>
-<h2 align="center">Welcome to my GitHub profile! I'm passionate full-stack JavaScript developer on a mission to turn ideas into impactful digital solutions. 🚀</h2>
+<h1 align="center">👋 Hello, World! 🌍</h1>
+<h2 align="center">Welcome to my GitHub profile! I'm Hristo Yonkov, a passionate full-stack JavaScript developer on a mission to turn ideas into impactful digital solutions. 🚀</h2>
+
+About Me
+🔭 Current Focus: Building clean, efficient, and scalable web applications.
+🌱 Always Learning: Exploring the latest trends in JavaScript, React, Node.js, and Cloud Technologies.
+💡 Philosophy: Code is not just a tool—it's a medium to innovate, inspire, and solve real-world problems.
 
 <h3>I have experience with these technologies:</h3>
 <h3>&darr; Languages and Tools: &darr;</h3>
